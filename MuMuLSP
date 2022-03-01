@@ -1,7 +1,11 @@
+#脚本由伟人制作q55749353
+#更多福利软件请关注微信公众号 木木IOS分享
+#少年不知精子贵，老了看逼几把软
+hostname = *zhongxyj*,slf*,*qqc*,*invlock*,*txt2021*,*kaqcn*,*xmblgg*,*0954auto*,*qdjdswkj*,*orientlion*,*weilaixushi*,*utsuu*,h5x*,*caiyunapp*,*xianghezhaofang*,*tangnvshi*,*invlock*,*txt2021*,*kaqcn*,*viqlwoqc*,biliapi*,bbb*,hnyoufan*,*pejyyah*,*yieamnd*,*wldfnjh*,*yieamnd*,*qkjuyet*,*ssiis*,h5*,xnsp.tv,*zhongxyj*,*.biliapi.*,*.bilibili.*,*cpzhongxiyi*,*h5*,*you*,*tbrapi*,*ksapi*,*xing*,*xrcz7812*,*xrzhuanxian*,*xingrend*,*ios*,*radio*,*dazmaster*,*ting*,*ggmza*,*jianmovie*,*biliapi*, *bilibili*,*dushu*,*music*,*xima*,ximalaya*,*laya*,*.zymk.cn,vip1.kuwo.cn,iosv2.cjapi.papa21.com,*myfcomic*,m.*c*,*wldfnjh*,*yieamnd*,*qkjuyet*,*pejyyah*,*tangnvshi*,9aixuan,*chuniao*,*tbrapi*,*ksapi*,*youshu*,*qmxfs*,*sanhe*,*keep*,123.57.195.48,getway.radio.cn,-*.icloud*,-*.apple*,camexam.intsig.net,api-cs.intsig.net,
 
 ######----福利应用脚本----######
 #91视频🚗 [会员解锁]下载地址- https://app.sbxcc.xyz/i-3NSNA9
-^http[s]?:\/\/\w{1,6}\.((utsuu)|(weilaixushi)|(orientlion)|(qdjdswkj)|(0954auto)|(xmblgg))\.(com|cn)/\m_user\/info url script-response-body https://raw.githubusercontent.com/WeiRen0/Quantumultx-weiren/main/91sp.js
+^http[s]?:\/\/\w{1,6}\.((utsuu)|(weilaixushi)|(orientlion)|(qdjdswkj)|(0954auto)|(xmblgg))\.(com|cn)/\m_user\/info url script-response-body https://raw.githubusercontent.com/WeiRen0/LSPP/main/91sp.js
 ^https?:\/\/.*\/common\/splash_config url reject-200
  
 #麻豆传媒🚗 [初次打开开启圈叉即可] 下载地址- https://wqzzyil.com/?pc=RTWPK6DK
