@@ -1,0 +1,10 @@
+##微信公众号: IOS木木分享
+
+hostname = *xmblgg*,*0954auto*,*qdjdswkj*,*ggmza*,*utsuu*,*weilaixushi*,*orientlion*
+
+#91视频🚗 下载地址- 
+^http[s]?:\/\/\w{1,6}\.((utsuu)|(weilaixushi)|(orientlion)|(qdjdswkj)|(0954auto)|(xmblgg))\.(com|cn)/\m_user\/info url script-response-body https://raw.githubusercontent.com/WeiRen0/LSPP/main/91sp.js
+^https?:\/\/.*\/common\/splash_config url reject-200
+#瑶池🚗 下载地址- 
+^http[s]?:\/\/api\.ggmza\.cn\/api(/user/info|/my/startupBanner|/common/enterNotice|/user/checkVersion) url script-response-body https://raw.githubusercontent.com/WeiRen0/Quantumultx-weiren/main/yaochi.js
+^http:\/\/api.ggmza.cn\/api\/user\/autoLogin url script-request-header https://raw.githubusercontent.com/WeiRen0/Quantumultx-weiren/main/ychi.js
