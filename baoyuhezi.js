@@ -1,10 +1,10 @@
 /*
-
+作者伟人qq 55749353
+下载地址 https://sserwe.cc:9701/#/?uid=39332813
 
 [rewrite_local]
 
-#鲍鱼盒子🚗
-
+#鲍鱼盒子🚗 
 ^http[s]?:\/\/[0-9.]+.(\w{2,8})?/api(/video/report_item?|/live/room/detail?).*$ url script-request-header baoyuhezi.js
 
 [mitm]
