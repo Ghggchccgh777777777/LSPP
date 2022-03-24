@@ -1,5 +1,7 @@
 /*
 作者伟人qq 55749353
+无限观影，无限看直播！
+
 下载地址 https://sserwe.cc:9701/#/?uid=39332813
 
 [rewrite_local]
