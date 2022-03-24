@@ -8,7 +8,7 @@
 [rewrite_local]
 
 #鲍鱼盒子🚗 
-^http[s]?:\/\/[0-9.]+.(\w{2,8})?/api(/video/report_item?|/live/room/detail?).*$ url script-request-header baoyuhezi.js
+^http[s]?:\/\/[0-9.]+.(\w{2,8})?/api(/video/report_item?|/live/room/detail?|/video/related?|/video/detail).*$ url script-request-header https://raw.githubusercontent.com/WeiRen0/LSPP/main/baoyuhezi.js
 
 [mitm]
 hostname = *.*.*
